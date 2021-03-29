@@ -820,9 +820,8 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
-			<string>OpenCanopy.efi</string>
+			<string>VBoxHfs.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
